@@ -8,4 +8,4 @@ RUN
 ```
 ./deploy.sh -t latest
 ```
-Thsi will deploy the latest nginx version.
+This will deploy the latest nginx version.
